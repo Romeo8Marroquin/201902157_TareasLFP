@@ -1,0 +1,14 @@
+		Diferencias entre Lenguajes Imperativos y Declarativos:
+Para tener la capacidad de diferenciar ambos lenguajes, primero debemos conocer qué es lo que
+son, y qué características los identifican, una vez conocido esto, las características que no
+sean comunes pueden ser interpretadas como las diferencias.
+
+Lenguajes de programación imperativos:
+	Se definen como los lenguajes que realizan sus cálculos y procedimientos a través de
+	cambios secuenciales de estado, donde cada estado se puede interpretar como las condiciones
+	que presentan las memorias, celdas, registros, etc.
+
+Lenguajes de programación declarativos:
+	Se definen como los lenguajes que realizan sus cálculos y procedimientos a través de
+	relaciones y funciones, estos lenguajes pueden considerarse como un nivel más elevado
+	debido a que provienen de la matemática, lógica, teoría de funciones y cálculo relacional.
